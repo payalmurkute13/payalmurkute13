@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Containerization and orchestration
 - 📫 How to reach me Email: pmurkute91@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm also a certified yoga instructor and love to practice yoga in my free time!
 
 <!---
 payalmurkute13/payalmurkute13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
